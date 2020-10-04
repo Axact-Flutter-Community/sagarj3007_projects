@@ -21,7 +21,5 @@ This app is made in flutter and the app name is SJ News(SJ is an acronym of my n
 
 # app screenshots
 
-<img src="images/one.png" width ="250">
-<img src="images/two.png" width ="250">
-<img src="images/three.png" width ="250">
-<img src="images/four.png" width ="250">
+<img src="images/one.png" width ="250"><img src="images/two.png" width ="250">
+<img src="images/three.png" width ="250"><img src="images/four.png" width ="250">
