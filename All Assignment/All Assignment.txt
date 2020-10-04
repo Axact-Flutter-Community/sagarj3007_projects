@@ -1,0 +1,19 @@
+1) (a) Print name app.
+   (b) Show image app.
+
+2) (a) Row and Column app.
+   (b) Design app.
+
+3) (a) Dice game app.
+
+4) (a) Sound effect app.
+
+5) (a) MCQ app.
+
+6) (a) Story game app.
+
+7) (a) Image api app.
+
+8) (a) Weather app.
+
+9) Assignment.
