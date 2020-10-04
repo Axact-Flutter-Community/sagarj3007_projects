@@ -17,4 +17,11 @@ samples, guidance on mobile development, and a full API reference.
 
 # project description
 
-This is a news app in which you can fetch data from newsapi.org. In this app you can search news according to your category which are provided in above horizontal scroll view. When you click on any news thumbmail you can view the whole news in a webview,
+This app is made in flutter and the app name is SJ News(SJ is an acronym of my name Sagar Jumrani). This is a news app in which you can fetch data from newsapi.org. In this app you can search news according to your category which are provided in above horizontal scroll view. When you click on any news thumbmail you can view the whole news in a webview.
+
+# app screenshots
+
+<img src="images/one.png" width ="250">
+<img src="images/two.png" width ="250">
+<img src="images/three.png" width ="250">
+<img src="images/four.png" width ="250">
