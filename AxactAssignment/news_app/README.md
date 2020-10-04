@@ -14,3 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# project description
+
+This is a news app in which you can fetch data from newsapi.org. In this app you can search news according to your category which are provided in above horizontal scroll view. When you click on any news thumbmail you can view the whole news in a webview,
